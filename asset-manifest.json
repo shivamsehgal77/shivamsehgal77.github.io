@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Shivam-Sehgal/static/css/main.5e7ac64c.css",
+    "main.js": "/Shivam-Sehgal/static/js/main.3b15a8fa.js",
+    "static/js/787.55b2ea99.chunk.js": "/Shivam-Sehgal/static/js/787.55b2ea99.chunk.js",
+    "static/media/home-main.png": "/Shivam-Sehgal/static/media/home-main.be57cfe60dd4d1857fc1.png",
+    "static/media/drone.png": "/Shivam-Sehgal/static/media/drone.b824be685ac7cf7028f6.png",
+    "static/media/sfm.png": "/Shivam-Sehgal/static/media/sfm.55b40ecad751dc9766ff.png",
+    "static/media/shapeshiftercircle.png": "/Shivam-Sehgal/static/media/shapeshiftercircle.c01734164aede1139825.png",
+    "static/media/Resume_Shivam.pdf": "/Shivam-Sehgal/static/media/Resume_Shivam.3b77fe7e0172a2642ae9.pdf",
+    "static/media/about.png": "/Shivam-Sehgal/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/avatar.jpg": "/Shivam-Sehgal/static/media/avatar.a99977668e655407d9fb.jpg",
+    "static/media/Astar.png": "/Shivam-Sehgal/static/media/Astar.07771bfdec0230c8cd1e.png",
+    "static/media/transferlearning.png": "/Shivam-Sehgal/static/media/transferlearning.39f04845a398ad8d81e1.png",
+    "static/media/handdigitRecog.png": "/Shivam-Sehgal/static/media/handdigitRecog.ef33393dd81025b18d4a.png",
+    "static/media/pre.svg": "/Shivam-Sehgal/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Shivam-Sehgal/index.html",
+    "main.5e7ac64c.css.map": "/Shivam-Sehgal/static/css/main.5e7ac64c.css.map",
+    "main.3b15a8fa.js.map": "/Shivam-Sehgal/static/js/main.3b15a8fa.js.map",
+    "787.55b2ea99.chunk.js.map": "/Shivam-Sehgal/static/js/787.55b2ea99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7ac64c.css",
+    "static/js/main.3b15a8fa.js"
+  ]
+}
